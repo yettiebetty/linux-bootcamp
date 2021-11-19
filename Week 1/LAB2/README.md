@@ -24,3 +24,5 @@ Quickstart for Bash in Azure Cloud Shell
 5. Read to understand VM sizes
 6. Ran commands (Stop and start to view the different power states of the VM (webserver) power states
 7. Management tasks
+
+DONE!

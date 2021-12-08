@@ -15,3 +15,16 @@ Quickstart: Manage Azure disks
 
 Quickstart for Bash in Azure Cloud Shell
 * https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart
+
+
+NOTES @ yettiebetty
+
+# Lab 3: Manage Azure disks with the Azure CLI
+
+1. Default Azure disks
+2. Created Azure data disks
+3. Read and understood VM disk types
+4. Launched Azure Cloud Shell
+5. Created and attached disks
+6. Prepared data disks
+7. Took a disk snapshot

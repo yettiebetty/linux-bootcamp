@@ -12,3 +12,11 @@ Quickstart: SSH for Linux VMs
 
 Quickstart for Bash in Azure Cloud Shell
 * https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart
+
+# NOTES @ yettiebetty
+
+
+1. Read about Supported SSH key formats
+2. Created an SSH key pair (/home/ytakinboade/Downloads/akinboyt_accessKeys.csv)
+3. Provided an SSH public key when deploying my VM
+4. SSH into my VMs

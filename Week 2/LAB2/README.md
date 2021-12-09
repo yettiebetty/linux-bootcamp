@@ -20,3 +20,10 @@ Quickstart: Restart VM via CLI
 
 Quickstart for AWS CloudShell
 * https://docs.aws.amazon.com/cloudshell/latest/userguide/working-with-cloudshell.html
+
+1. Created virtual machine
+2. Connected to VM
+3. Read to understand VM images
+4. Read to understand VM sizes
+5. studied about the different VM power states
+6. Read about Management tasks that can be perforned via cli and console

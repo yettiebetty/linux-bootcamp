@@ -14,3 +14,14 @@ Quickstart: Create a Linux VM
 
 Quickstart for AWS CloudShell
 * https://docs.aws.amazon.com/cloudshell/latest/userguide/working-with-cloudshell.html
+
+Notes @ yettiebetty
+
+
+1. Launched AWS Cloud Shell
+3. Created virtual machine
+4. Opened port 80 for web traffic
+5. Connected to virtual machine
+6. Installed web server
+7. saw the web server in action
+following documentations on https://aws.amazon.com/getting-started/launch-a-virtual-machine-B-0/ and https://docs.aws.amazon.com/cloudshell/latest/userguide/working-with-cloudshell.html
